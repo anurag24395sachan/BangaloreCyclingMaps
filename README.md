@@ -8,7 +8,7 @@
 -  https://www.ryanbaumann.com/blog/2015/8/1/strava-heat-mapping-creating-the-map
 
 ### Tools
-- [GeoJson](geojson.io/#map=13/12.9670/77.6337)
+- [GeoJson](https://geojson.io/#map=13/12.9670/77.6337)
 - [OSM Tracker](https://play.google.com/store/apps/details?id=net.osmtracker&hl=en_IN)
 
 ### Experiments
